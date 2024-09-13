@@ -9,4 +9,8 @@ This project is a simple retail billing system developed using the <code>Tkinter
 <li>Print, clear, and generate bills</li>
 </ul>
 
+<h2>Software GUI</h2>
 <img src='https://github.com/modiharsh23/billing-system-using-tkinter-python/blob/main/GUI%20bill.png?raw=true'>
+
+<h2>Software GUI after filling details</h2>
+<img src='https://github.com/modiharsh23/billing-system-using-tkinter-python/blob/main/bill.png?raw=true'>
