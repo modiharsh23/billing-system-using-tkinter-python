@@ -8,3 +8,5 @@ This project is a simple retail billing system developed using the <code>Tkinter
 <li>Automatic calculation of total costs and taxes</li>
 <li>Print, clear, and generate bills</li>
 </ul>
+
+<img src=''>
